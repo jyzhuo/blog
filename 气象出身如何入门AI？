@@ -1,0 +1,95 @@
+# AI入门方法与材料
+
+## 优质课程
+
+1. **李宏毅机器学习公开课**
+	这门公开课是极其友好的机器学习入门材料（中文授课！），李宏毅老师擅长用大量的有趣的例子来讲解理论，把复杂概念讲得通俗易懂。除了主线的机器学习课程，这门课还有很多彩蛋，紧跟前沿研究。
+		课程主页：https://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html
+		bilibili视频连接：https://www.bilibili.com/video/av59538266
+
+	
+	
+2. **吴恩达cousera *Machie Learning***
+    这门课也非常友好，相比李宏毅课还更基础些。建议1或2择一学习即可，最好能完成课程作业，以更好地理解概念，并提高动手能力。
+   链接：https://www.coursera.org/learn/machine-learning
+
+  
+
+3. **斯坦福 CS231N *Convolutional Neural Networks for Visual Recognition***
+
+   这门课是计算机视觉方面的课程，理论和实践并重，可以较好地掌握卷积神经网络。另外，如果你的科学问题更像自然语言处理，则推荐斯坦福另外一门课程 **CS224N *Natural Language Processing with Deep Learning*** 。
+
+   链接：http://cs231n.stanford.edu/
+
+   & http://web.stanford.edu/class/cs224n/
+
+   
+
+4. **斯坦福《概率与统计》**
+
+   机器学习的数学基础是概率、统计和线性代数。斯坦福和MIT的这两门课可以用来补基础。
+
+   链接：https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics
+
+   
+
+5. **MIT《线性代数》**
+
+   这门课的老师是Gilbert Strang，据说被称为最好的线性代数课程。
+
+   链接：https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+   
+## 书籍
+
+1. **西瓜书 周志华《机器学习》**
+
+   这本书基本涵盖机器学习所有分支，如监督学习，半监督，无监督，强化学习等，是一本非常严谨的教材，缺点是公式贼多。
+
+   
+
+2. **花书 GoodFellow 《Deep Learning》**
+
+   这本书是深度学习的圣经，也有中文版本，缺点是有点难读。建议根据自己的科学问题挑选对应章节学习，另外，该书第11章的实践经验非常有用！
+
+   链接： http://www.deeplearningbook.org/
+
+   
+
+
+## 编程/工具
+
+1. **Python**
+
+   Python是机器学习最主流的语言，大气学科领域也越来越多的人在用python进行数据分析，可视化，跑简单模型。其中，数据处理需要用到的库是numpy，pandas，可视化的库是matplotlib。
+
+2. **Keras或PyTorch**
+
+   这是目前最流行的深度学习框架，Keras的代码高度封装（高级API），因此易用性很强，是最容易上手的深度学习框架，且能快速运行。
+
+   链接：https://keras.io
+
+   PyTorch是较低级别的API，但是相比Keras灵活度更好，如果以后会长期从事AI相关研究，可以直接学习PyTorch，速度和keras相当或更快些。
+
+   链接：https://pytorch.org
+
+
+
+## 微信公号/blog
+
+AI领域更新很快，非计算机领域很难去跟踪某个课题的前沿与进展，以及了解其历史脉络。好的微信公号和大佬写的blog，可以帮你迅速了解一个计算机领域课题，并时时对state of the art有一定了解，而且还能找到很多实例代码。
+
+1. 公号推荐：新智元和机器之心
+2. blog推荐：*Jason Brownlee*的[Machine Learning Mastery](https://machinelearningmastery.com/about/)
+
+
+
+
+
+​																																	整理：卓静仪
+
+​																																2020年2月17日
+
+
+
+最全链接：https://www.jiqizhixin.com/articles/2020-02-03-10?from=synced&keyword=李宏毅
